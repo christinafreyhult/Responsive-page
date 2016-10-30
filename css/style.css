@@ -109,6 +109,10 @@ li a {
     width: 75%;
 }
 
+.skill_list {
+    margin-bottom: 50px;
+}
+
 #contact_text {
     width: 85%;
     margin: 0 auto 40px;
@@ -209,6 +213,10 @@ li a {
         display: inline-block;
         background-color: #f7f5f0;
         margin: auto 20px;
+    }
+    
+    .main-nav li a {
+        border-bottom: 2px solid rosybrown;
     }
     
 
